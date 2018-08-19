@@ -8,7 +8,7 @@ package view;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
+/** alterado do git
  *
  * @author Antonio Ferreira
  */
